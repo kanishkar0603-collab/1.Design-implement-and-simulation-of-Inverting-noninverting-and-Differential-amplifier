@@ -72,7 +72,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
 6.	Practical output & theoretical calculation should be approximately equal.
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
-**PIN DIAGRAM:**
+**PIN DIAGRAM:
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
