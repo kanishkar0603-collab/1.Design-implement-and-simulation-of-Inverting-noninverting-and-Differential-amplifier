@@ -73,6 +73,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
 **PIN DIAGRAM:**
+1.hi
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
