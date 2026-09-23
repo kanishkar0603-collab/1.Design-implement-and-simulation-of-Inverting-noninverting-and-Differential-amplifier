@@ -76,33 +76,15 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="960" height="1600" alt="WhatsApp Image 2026-09-23 at 9 45 03 PM (3)" src="https://github.com/user-attachments/assets/38df0945-32c3-4b9b-a40e-a386464df7ff" />
+<img width="949" height="1600" alt="WhatsApp Image 2026-09-23 at 9 45 03 PM (2)" src="https://github.com/user-attachments/assets/7cc6bc88-c17c-4df1-8694-e3ec595eeab4" />
 
-
-  **MODEL GRAPH:**
-
-
-  **TABULATION:**
- 
-
-**MODEL CALCULATION:**
-
-**NON INVERTING AMPLIFIER:**
-  **CIRCUIT DIAGRAM**
-
-
-  **MODEL GRAPH:**
-
-
-  **TABULATION:**
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
-
-
-  **MODEL GRAPH:**
-
-
-  **TABULATION:**
+  <img width="1188" height="1600" alt="WhatsApp Image 2026-09-23 at 9 45 03 PM (1)" src="https://github.com/user-attachments/assets/6142f3f5-573a-4c5d-a584-a31e97d0b6a0" />
+<img width="1219" height="1600" alt="WhatsApp Image 2026-09-23 at 9 45 03 PM" src="https://github.com/user-attachments/assets/6154864a-1627-45ea-a8fd-c6741e66c22d" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/dbdf00d9-d5ea-4ffd-a337-60ae933b58d6" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -115,6 +97,10 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/659cb31c-4460-4e2c-b938-46b36abc9a2a" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/dc95bb64-0726-4eda-bdfe-c19598cb1afa" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5364588f-9da9-4c68-8c0d-910a91e2585e" />
+
   
 
 **RESULT:**
